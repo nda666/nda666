@@ -1,5 +1,5 @@
 <center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nda666&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nda666&show_icons=true&theme=buefy)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nda666&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
