@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **PT. Doran Sukses Indonesia**
 
-- 🌱 I’m currently learning **ReactJS, VueJS, AngularJS, NextJS, NuxtJS, NestJs, Laravel.**
+- 🌱 I’m currently learning **ReactJS, VueJS, AngularJS, React Native, Flutter, NextJS, NuxtJS, NestJs, Laravel.**
 
 - 📫 How to reach me **adhabakhtiar@gmail.com**
 
