@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Waving Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,20&height=210&section=header&text=Adha%20Bakhtiar&fontSize=50&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Custom Animated Developer Header Banner -->
+  <img src="./header.svg" width="100%" alt="Adha Bakhtiar - Developer Header" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/nda666">
@@ -78,46 +78,34 @@ interests: [Clean Code, System Architecture, High-Performance UI/UX]
 ### 🐍 Contribution Activity Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nda666/nda666/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" onerror="this.src='https://raw.githubusercontent.com/platane/snk/master/packages/action/resources/demo.svg'" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📊 GitHub Analytics & Repository Metrics
 
-<div align="center">
-  <a href="https://github.com/nda666">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nda666&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Adha's Activity Graph" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Analytics & Trophies
-
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nda666&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<!-- Stats Grid -->
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=nda666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nda666&theme=tokyonight" alt="GitHub Profile Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nda666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nda666&theme=tokyonight" alt="Repos per Language" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=nda666&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nda666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nda666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=nda666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
