@@ -25,7 +25,7 @@
 
 <!-- 🐠 ANIMATED DEV AQUARIUM CANVAS 🫧 -->
 <div align="center">
-  <img src="./aquarium.svg" width="100%" alt="Dev Aquarium Animated Canvas" />
+  <img src="./pcb.svg" width="100%" alt="Dev" />
 </div>
 
 ---
